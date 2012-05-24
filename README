@@ -1,0 +1,4 @@
+This program reads in an integer and runs it through a recursive method.
+
+It follows this algorithm:
+If input n<=2, return 4, else  = 2*function1(n-2) + 5*function1(n-3) + 2
